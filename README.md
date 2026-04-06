@@ -1,26 +1,33 @@
-<h1 align="center">👋 Hi, I'm Awais Ishaq</h1>
+<h1 align="center">🌍 Global Digital Care</h1>
 
-<h3 align="center">🚀 Full Stack Engineer | 🏢 Agency Builder | 🇵🇰 Pakistan</h3>
+<h3 align="center">🚀 Building Scalable Digital Solutions | 🏢 Software Agency</h3>
 
 <p align="center">
-  <a href="https://github.com/Jam-Awais-Ishaq">
-    <img src="https://komarev.com/ghpvc/?username=Jam-Awais-Ishaq&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jam-Awais-Ishaq&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ About Us
 
-- 🏢 Founder of **Global Digital Care (Agency)**
-- 💻 Building **Scalable Web Applications**
-- ⚙️ Strong grip on **MERN + PostgreSQL**
-- 🧠 Learning **System Design & Advanced Backend**
-- 🎯 Mission: Build a **Top Software Agency**
+**Global Digital Care** is a modern software agency focused on building high-performance, scalable, and secure web applications.
+
+We transform ideas into real-world digital products using cutting-edge technologies and industry best practices.
 
 ---
 
-## 💻 Tech Stack (Agency Level)
+## 🏢 Our Services
+
+- 💻 Full Stack Web Development  
+- 🌐 Frontend (React / Next.js)  
+- ⚙️ Backend Development (Node.js / Express)  
+- 🗃️ Database Design (MongoDB / PostgreSQL)  
+- 🔐 Authentication & Security Systems  
+- 🚀 Deployment & DevOps  
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -30,23 +37,27 @@
 
 ---
 
-## 🏢 Agency Project
+## 🧠 Core System
 
-### 🌍 Global Digital Care
+### 📊 Role-Based Management System
 
-> Complete **Role-Based Management System**
+Our agency system is built with a powerful architecture:
 
-👑 Admin → Full Control  
-🧑‍💼 HR → Manage Employees  
-👨‍💻 Employee → Tasks & Work  
+👑 **Admin Panel** → Full System Control  
+🧑‍💼 **HR Panel** → Employee Management  
+👨‍💻 **Employee Panel** → Tasks & Workflow  
 
-### 🔥 Features
+---
+
+## 🔥 Key Features
+
 - 🔐 JWT Authentication + Email Verification  
-- 🧠 Role-Based Access Control  
-- 📊 Dashboard System  
-- 📅 Attendance System  
+- 🧠 Role-Based Access Control (RBAC)  
+- 📊 Smart Dashboard System  
+- 📅 Attendance & Tracking System  
 - 📁 Project & Task Management  
-- 🚀 Deployment Ready  
+- ⚡ REST API Architecture  
+- 🚀 Production Ready Deployment  
 
 ---
 
@@ -63,7 +74,7 @@
 
 ---
 
-## ⏱️ Coding Activity (Last Commit)
+## ⏱️ Development Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jam-Awais-Ishaq&theme=tokyo-night" />
@@ -79,7 +90,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Our Vision
+
+> We don’t just build applications — we build scalable digital systems that grow businesses 💡
+
+---
+
+## 📫 Contact Us
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-owais-ishaq-054102374">
@@ -92,9 +109,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
----
-
-## ⚡ Mindset
-
-> I don’t just build apps — I build systems that scale 💡
