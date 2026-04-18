@@ -95,7 +95,7 @@ Our agency system is built with a powerful architecture:
 > We don’t just build applications — we build scalable digital systems that grow businesses 💡
 
 ---
-
+<!--
 ## 📫 Contact Us
 
 <p align="center">
@@ -109,3 +109,4 @@ Our agency system is built with a powerful architecture:
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+-->
