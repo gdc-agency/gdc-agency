@@ -60,13 +60,13 @@ Our agency system is built with a powerful architecture:
 - 🚀 Production Ready Deployment  
 
 ---
-
-## 📊 GitHub Analytics
+<!--
+## 📊 GitHub Analytics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=tokyonight" />
-</p>
+ </p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=tokyonight" />
@@ -86,8 +86,8 @@ Our agency system is built with a powerful architecture:
 
 <p align="center">
   <img src="https://github.com/Jam-Awais-Ishaq/Jam-Awais-Ishaq/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+ </p>  
+-->
 ---
 
 ## 🌐 Our Vision
