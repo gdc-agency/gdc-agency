@@ -95,10 +95,10 @@ Our agency system is built with a powerful architecture:
 > We don’t just build applications — we build scalable digital systems that grow businesses 💡
 
 ---
-
+-->
 ## 📫 Contact Us
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/muhammad-owais-ishaq-054102374">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>  <a href="ttps://awaisishaqportfolios.nethlify.app">
@@ -108,5 +108,5 @@ Our agency system is built with a powerful architecture:
   <a href="mailto:muhammadowaisishaqofficials@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
--->
+</p> -->
+
