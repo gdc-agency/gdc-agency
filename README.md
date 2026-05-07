@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E14E1D,50:23BBBC,100:0277BD&height=220&section=header&text=Global%20Digital%20Care&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Scalable%20%7C%20Secure%20%7C%20High-Performance%20Digital%20Systems&descAlignY=62&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=23BBBC&center=true&vCenter=true&width=700&lines=Modern+Software+Agency+from+;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;RBAC+%7C+JWT+Auth+%7C+Admin+HR+Employee+Systems;Clean+Architecture+%7C+Production+Ready+Deployments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=23BBBC&center=true&vCenter=true&width=700&lines=Modern+Software+Agency+;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;RBAC+%7C+JWT+Auth+%7C+Admin+HR+Employee+Systems;Clean+Architecture+%7C+Production+Ready+Deployments)](https://git.io/typing-svg)
 
 <br/>
 
