@@ -16,8 +16,14 @@
 
 ## 🚀 About Global Digital Care
 
-**Global Digital Care** builds **secure, scalable, and high-performance** web applications and internal management systems for startups, companies, and enterprises.
 
+**Global Digital Care** is a creative digital agency providing innovative solutions in web design, web development, branding, app design, MERN stack development, and digital marketing services.
+
+We specialize in developing websites on all major CMS platforms including WordPress, Shopify, Webflow, Wix, and custom solutions tailored to business needs. Our experienced team also delivers high-performance MERN stack applications and modern UI/UX designs for web and mobile apps.
+**Global Digital Care** builds **secure, scalable, and high-performance** web applications and internal management systems for startups, companies, and enterprises.
+With a growing team of 11–50 professionals, we proudly serve clients worldwide from our locations in Bahawalpur (Pakistan), San Francisco (USA), and Sydney (Australia).
+
+Our mission is to help businesses build a strong digital presence through creativity, technology, and result-driven strategies.
 We transform business ideas into reliable digital products using modern engineering standards and clean architecture.
 
 ---
