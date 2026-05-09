@@ -109,7 +109,7 @@ We transform business ideas into reliable digital products using modern engineer
 
 ## 🎯 Our Vision
 
-> *We don’t just develop apps we engineer digital systems that help businesses grow.*
+> *We don’t just develop apps - we engineer digital systems that help businesses grow.*
 
 ---
 
