@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20Website-globaldigitalcare.pk-black?style=for-the-badge&logo=vercel)](https://www.globaldigitalcare.pk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Global%20Digital%20Care-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/globaldigitalcarebwp/posts/?feedView=all)
 [![GitHub](https://img.shields.io/badge/GitHub-gdc--agency-181717?style=for-the-badge&logo=github)](https://github.com/gdc-agency)
 
 </div>
@@ -21,7 +19,7 @@
 
 We specialize in developing websites on all major CMS platforms including WordPress, Shopify, Webflow, Wix, and custom solutions tailored to business needs. Our experienced team also delivers high-performance MERN stack applications and modern UI/UX designs for web and mobile apps.
 **Global Digital Care** builds **secure, scalable, and high-performance** web applications and internal management systems for startups, companies, and enterprises.
-With a growing team of 11–50 professionals, we proudly serve clients worldwide from our locations in Bahawalpur (Pakistan), San Francisco (USA), and Sydney (Australia).
+With a growing team of 11–50 professionals, we proudly serve clients worldwide from our locations in Sydney (Australia).
 
 Our mission is to help businesses build a strong digital presence through creativity, technology, and result-driven strategies.
 We transform business ideas into reliable digital products using modern engineering standards and clean architecture.
@@ -102,10 +100,7 @@ We transform business ideas into reliable digital products using modern engineer
 
 ---
 
-## 🌐 Live Presence
 
-- **Website:** [https://www.globaldigitalcare.pk](https://www.globaldigitalcare.pk)
----
 
 ## 🎯 Our Vision
 
